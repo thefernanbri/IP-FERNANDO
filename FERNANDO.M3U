@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://portalcultura.net.br/parazao/wp-content/uploads/2019/12/Logo-Cultura-300x300.png" group-title="TV ABERTA", PORTAL CULTURA SD
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1072109644.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID HD" tvg-logo="http://fonteangelusiptv.com:25461/images/a39da43cb29ee53367f77e7de7cf0539.jpg" group-title="CANAIS DISCOVERY",DISCOVERY ID HD
+http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/92808
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/2f0bf0e24c32f2def1ea5d5323a8d68a.png" group-title="DOCUMENTÁRIO",H2 HD
+http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/92657
