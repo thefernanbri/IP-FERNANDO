@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://portalcultura.net.br/parazao/wp-content/uploads/2019/12/Logo-Cultura-300x300.png" group-title="TV ABERTA", PORTAL CULTURA SD
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1072109644.m3u8
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID HD" tvg-logo="http://fonteangelusiptv.com:25461/images/a39da43cb29ee53367f77e7de7cf0539.jpg" group-title="CANAIS DISCOVERY",DISCOVERY ID HD
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",DISCOVERY ID HD
 http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/178492
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/2f0bf0e24c32f2def1ea5d5323a8d68a.png" group-title="DOCUMENTÁRIO",H2 HD
-http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/178686
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://fonteangelusiptv.com:25461/images/7a767efe4b730c3bc91ebce22c14b359.png" group-title="FILMES ",TCM HD
-http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/178578
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="DOCUMENTÁRIO",H2 HD
+http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/178688
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="FILMES ",TCM HD
+http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/178579
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL FHD ALT" tvg-logo="https://img1.gratispng.com/20181115/okv/kisspng-prime-box-brazil-logo-brand-film-5bed434e506ab1.0038946715422759183294.jpg" group-title="FILMES ",PRIME BOX BRASIL FHD ALT
+http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/178554
 #EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TV_Escola.png/235px-TV_Escola.png" group-title="Canais | Documentários",TV ESCOLA
 https://video-rvd-pe-cdc-gw-1-2.rnp.br/live/ocp(t(Fi0Ev_55hKs)r(fVR9ug)a(ijuceQ)p(d(2xc)k(q78)m(xCrT5NIWZQpnpCY4wnkNJg)n(a(PH7cgg)s(j-M)'a(TBO9YQ)s(x3Q)))s(s(cRM)b(SYN9ubCLCmMDc0IdHc-LuY99M55ZKxX0bIryQdDZGSQe4mH43C7Ja3phFX1ZoKu6x-OhQboOLX9MYXTpHw)'s(kgA)b(F13QmUrmcJCbDBUasgssqwouVLrIrGBrlmA5fYFYgWlIL0rqVcDDrxu2uowpHRxk3yCY_h_1uBhLHnckXjThdQtSPAiS9a3QtrIsAoEC)'s(Okk)b(4bt7MiVY))m(0))/tvescola_index.m3u8
+#EXTINF:-1 tvg-id="BR - TV Brasil" tvg-name="BR - TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" xmltv_id="BR - TV Brasil" group-title="TV ABERTA",TV Brasil
+http://150.161.93.220/hls/1080/index.m3u8
