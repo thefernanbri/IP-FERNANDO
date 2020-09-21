@@ -17,3 +17,5 @@ http://150.161.93.220/hls/1080/index.m3u8
 http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/178683
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="DOCUMENTÁRIO ",NATIONAL GEOGRAPHIC HD
 http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/178691
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES ",AXN HD ALT
+http://fonteangelusiptv.com:25461/thefernabri/92d13xyz1909/178508
